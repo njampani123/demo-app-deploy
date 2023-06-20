@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/njampani123/demo-app
-  newTag: 7318bfc13f25aa017604beac613d02bd316df62d
+  newTag: 79ebafc384a6b451dbddf772f27e97946644ceda
