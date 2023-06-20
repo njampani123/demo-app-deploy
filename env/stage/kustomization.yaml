@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/njampani123/demo-app
+  newTag: 79ebafc384a6b451dbddf772f27e97946644ceda
